@@ -1,0 +1,6 @@
+package art.aboubak.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
